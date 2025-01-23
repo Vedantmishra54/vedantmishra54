@@ -2,6 +2,7 @@
 
 - 🌱 Learning React, Redux, and Full-Stack Development.
 - 💼 Working on exciting projects in Web Development.
-- 📫 Reach me at: vedantmishra893@gmail.com | https://www.linkedin.com/in/vedant-mishra-38a95b291/)
+- 📫 Reach me at: **vedantmishra893@gmail.com** |
+-  https://www.linkedin.com/in/vedant-mishra-38a95b291/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantMishra&show_icons=true&theme=radical)
+
