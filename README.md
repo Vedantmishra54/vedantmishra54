@@ -15,7 +15,8 @@
     </a>&nbsp;&nbsp;
 </p>
 
-<img align="left" alt="Coding" width="200" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300"">
+<img align="left" alt="Coding" width="200" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Vedantmi54&label=Profile%20views&color=0e75b6&style=flat" alt="Vedantmi54" /> </p>
 
         - 🌱 I’m currently learning **React Js**
