@@ -1,17 +1,32 @@
-# 👋 Hi, I'm Vedant Mishra
+<h1 align="center"> Hi 👋, I'm Vedant Mishra </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&width=350&center=true&width=480&lines=%3C+Full+Stack+Developer+%2F%3E;%3C+CyberSecurity+Enthusiast+%2F%3E">
+</p>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vedantmishra)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/vedantmishra)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/VedantMishra)
-
----
-
-## 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<p align="center">
+    <a href="[https://www.linkedin.com/in/ayush-singh-33721224a/](https://www.linkedin.com/in/vedant-mishra-38a95b291/)">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Ayush Singh | LinkedIn">
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/ayushsingh00030/">
+      <img src="https://img.shields.io/badge/Leetcode-%23323330.svg?logo=leetcode&logoColor=orange" alt="Ayush Singh | Leetcode">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.codechef.com/users/ayush_4028">
+      <img src="https://img.shields.io/badge/CodeChef-%23F7931E.svg?logo=codechef&logoColor=%C4A484" alt="Ayush Singh | CodeChef">
+    </a>&nbsp;&nbsp;
+</p>
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayush4028&label=Profile%20views&color=0e75b6&style=flat" alt="ayush4028" /> </p>
+
+        - 🌱 I’m currently learning **React Js**
+        
+        - 💬 Ask me about **Javascript, Tailwind, DSA, CP**
+        
+        - 📫 How to reach me **ayushsingh00030@gmail.com**
+
+  
+<br/>
+<br/>
+# 💻 Tech Stack:
+
